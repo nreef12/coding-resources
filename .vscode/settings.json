@@ -4,6 +4,7 @@
         "markdownlint.focusMode": true,
         "MD013": false,
         "MD041": false,
-        "MD033": false
+        "MD033": false,
+        "MD028": false
     }
 }
